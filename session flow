@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-07-30T07:05:02.306Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="29vhEuEAT_rQb21Immio" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-30T07:18:58.425Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="B8ziYCq0ztAye2ThjTj6" version="20.1.1" type="github">
   <diagram id="dtf5lc_TU_4uU-aeSNXB" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="OQ5tWdN_aZfR1k6shH8W-12" value="hold a bay&lt;br&gt;select user&lt;br&gt;select game&lt;br&gt;assign duration&lt;br&gt;user pays ( add transaction )&lt;br&gt;assign pin&lt;br&gt;&lt;br&gt;user adds pin on bay&lt;br&gt;user adds players&lt;br&gt;clicks start game&lt;br&gt;start duration and change bay status to booked" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="50" width="280" height="180" as="geometry" />
+        <mxCell id="OQ5tWdN_aZfR1k6shH8W-12" value="&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;hold a bay&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;select user&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;select game&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;assign duration&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;assign pin&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Submit ( Create session )&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;user pays ( add transaction )&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;change bay status to booked&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;user adds pin on bay&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;user adds players&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;clicks start game&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;start duration and change bay status to booked&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;... next session flow&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="50" width="550" height="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
