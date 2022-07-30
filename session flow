@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-07-30T06:50:31.652Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.1.1" etag="Ixc1nZO_DqoAhQZaMWXD" type="github"><diagram id="dtf5lc_TU_4uU-aeSNXB">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-30T07:05:02.306Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="29vhEuEAT_rQb21Immio" version="20.1.1" type="github">
+  <diagram id="dtf5lc_TU_4uU-aeSNXB" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OQ5tWdN_aZfR1k6shH8W-12" value="hold a bay&lt;br&gt;select user&lt;br&gt;select game&lt;br&gt;assign duration&lt;br&gt;user pays ( add transaction )&lt;br&gt;assign pin&lt;br&gt;&lt;br&gt;user adds pin on bay&lt;br&gt;user adds players&lt;br&gt;clicks start game&lt;br&gt;start duration and change bay status to booked" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="50" width="280" height="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
